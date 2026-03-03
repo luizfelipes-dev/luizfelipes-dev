@@ -8,23 +8,23 @@
 
 ## 🛠 Technologies & Tools
 
-- Python
-- Git & GitHub
-- APIs & JSON
-- Automation Scripts
-- Data Processing
+- Python  
+- Git & GitHub  
+- APIs & JSON  
+- Automation Scripts  
+- Data Processing  
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 [Automação Organizador de Arquivos](link-aqui)  
-🔹 Web Scraping Project (em construção)  
-🔹 API Integration Project (em construção)
+🔹 Automação Organizador de Arquivos  
+🔹 Web Scraping Project *(in progress)*  
+🔹 API Integration Project *(in progress)*  
 
 ---
 
 ## 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/luiz-felipe-santos-928550242
-- Email: luizfelipe.s1174@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-felipe-santos-928550242)  
+- 📧 luizfelipe.s1174@gmail.com
