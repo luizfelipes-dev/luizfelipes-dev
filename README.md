@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Luiz Felipe
 
-<!--
-**luizfelipes-dev/luizfelipes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Python Developer focused on Automation & Data Processing  
+🚀 Building real-world solutions and improving every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+
+- Python
+- Git & GitHub
+- APIs & JSON
+- Automation Scripts
+- Data Processing
+
+---
+
+## 📂 Featured Projects
+
+🔹 [Automação Organizador de Arquivos](link-aqui)  
+🔹 Web Scraping Project (em construção)  
+🔹 API Integration Project (em construção)
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/luiz-felipe-santos-928550242
+- Email: luizfelipe.s1174@gmail.com
