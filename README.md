@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Luiz Felipe
 
+---
+
 🎓 Software Engineering Student  
 💻 Python Developer focused on Automation & Data Processing  
-🚀 Building real-world solutions and improving every day  
+🚀 Passionate about building efficient and scalable solutions 
 
 ---
 
@@ -18,7 +20,7 @@
 
 ## 📂 Featured Projects
 
-🔹 Automação Organizador de Arquivos  *(in progress)*  
+🔹 [File Organizer Automation](https://github.com/luizfelipes-dev/file-organizer-automation)  
 🔹 Web Scraping Project *(in progress)*  
 🔹 API Integration Project *(in progress)*  
 
