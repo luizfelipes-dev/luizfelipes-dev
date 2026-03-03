@@ -18,7 +18,7 @@
 
 ## 📂 Featured Projects
 
-🔹 Automação Organizador de Arquivos  
+🔹 Automação Organizador de Arquivos  *(in progress)*  
 🔹 Web Scraping Project *(in progress)*  
 🔹 API Integration Project *(in progress)*  
 
